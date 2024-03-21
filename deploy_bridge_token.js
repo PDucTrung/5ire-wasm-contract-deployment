@@ -42,7 +42,7 @@ try {
   try {
     // initialize
     let trading_rate = 300; // u32;
-    let token_azero_contract_address = '5FNhUSS5qvxDnQm61qtmufoozyhuc15ae5He791ydSi9sJcS';  // AccountId,
+    let token_azero_contract_address = '5Gc8511m86vuzUECu5SEHnZmyrQLgg5BTT4FVea5fcE7VKEh';  // AccountId,
     let token_5ire_contract_address = '5FNhUSS5qvxDnQm61qtmufoozyhuc15ae5He791ydSi9sJcS'; // AccountId
 
     // methdod
