@@ -1,0 +1,10 @@
+{
+  "contracts": [
+    {
+      "bridge_token": {
+        "address": "5FqUciN5hSP5ZvhCRh7RX7LEgtwCHZZTEVzLnu4hqXEyDh5e",
+        "hash": "0xe7575aef75f76f5a6130dcc128e059b5746722729dfcd58d0422fa6126fd7f54"
+      }
+    }
+  ]
+}

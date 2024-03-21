@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@polkadot/api": "^10.10.1",
+    "@polkadot/api-contract": "^10.10.1",
+    "@polkadot/util": "^12.5.1",
+    "dotenv": "^16.4.5",
+    "lowdb": "1.0.0"
+  },
+  "scripts": {
+    "deploy": "node deploy_bridge_token.js"
+  },
+  "type": "module"
+}
